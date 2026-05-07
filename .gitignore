@@ -1,0 +1,13 @@
+# Generated output (any Output/ directory anywhere in the repo)
+**/Output/
+
+# Log files
+*.log
+
+# Test files (large binaries)
+Image-Manipulation/TestFiles/
+
+# macOS creates hidden .DS_Store files in every folder viewed in Finder.
+# Ignored here so they never accidentally get committed if the repo is
+# opened on a Mac.
+.DS_Store
